@@ -11,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=PrajwolNeupane&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PrajwoNeupane&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwolNeupane&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 🔥 GitHub Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrajwolNeupane)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PrajwolNeupane&theme=light&no-frame=false&no-bg=false&margin-w=4)
