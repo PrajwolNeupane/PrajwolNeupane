@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently studying Bachelor in Computer Science<br>💼 I'm looking for an internship at React.JS and frontend development<br>👨‍💻 I'm currently learning Next.JS<br>💬 Ask me about React.JS, Material UI, and Firebase
+📚 I'm currently studying Bachelor in Computer Science<br>👨‍💻 I'm currently learning Next.JS<br>💬 Ask me about React.JS, Material UI, and Firebase
 
 
 ## 🌐 Socials:
