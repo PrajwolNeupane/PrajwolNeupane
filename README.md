@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently studying Bachelor in Computer Science<br>👨‍💻 I'm currently learning Next.JS<br>💬 Ask me about React.JS, Material UI, and Firebase, TailwindCSS
+📚 I'm currently studying Bachelor in Computer Science<br>👨‍💻 I'm currently learning Next.JS and Expres.JS<br>💬 Ask me about React.JS, Material UI, and Firebase, TailwindCSS
 
 
 ## 🌐 Socials:
