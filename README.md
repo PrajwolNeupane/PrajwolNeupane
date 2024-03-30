@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/prajwolneupane"><img src="https://api.daily.dev/devcards/v2/VIO4Mr2NLs2NKvpSch7fx.png?type=wide&r=cw3" width="652" alt="Prajwol Neupane's Dev Card"/></a>
+
 # 💫 About Me:
 📚 I'm currently studying Bachelor in Computer Science<br>👨‍💻 I'm currently learning Next.JS and Flutter<br>💬 Ask me about React.JS, Material UI, and Firebase, TailwindCSS
 
